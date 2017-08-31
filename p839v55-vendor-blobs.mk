@@ -791,15 +791,30 @@ vendor/vodafone/p839v55/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwv
     vendor/vodafone/p839v55/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/vodafone/p839v55/proprietary/lib/modules/radio-iris-transport.ko:system/lib/modules/radio-iris-transport.ko \
     vendor/vodafone/p839v55/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
+    vendor/vodafone/p839v55/proprietary/lib/libalRnB.so:system/lib/libalRnB.so \
+    vendor/vodafone/p839v55/proprietary/lib/libalSDE2.so:system/lib/libalSDE2.so \
+    vendor/vodafone/p839v55/proprietary/lib/libaltek_post_jni.so:system/lib/libaltek_post_jni.so \
+    vendor/vodafone/p839v55/proprietary/lib/libaltekTracking_jni.so:system/lib/libaltekTracking_jni.so \
+    vendor/vodafone/p839v55/proprietary/lib/libalTrailer.so:system/lib/libalTrailer.so \
     vendor/vodafone/p839v55/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
+    vendor/vodafone/p839v55/proprietary/lib/libGPU_post_jni.so:system/lib/libGPU_post_jni.so \
+    vendor/vodafone/p839v55/proprietary/lib/libImageProcess_jni.so:system/lib/libImageProcess_jni.so \
+    vendor/vodafone/p839v55/proprietary/lib/libjpeg_encode_hw_jni.so:system/lib/libjpeg_encode_hw_jni.so \
     vendor/vodafone/p839v55/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/vodafone/p839v55/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/vodafone/p839v55/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/vodafone/p839v55/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/vodafone/p839v55/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
+    vendor/vodafone/p839v55/proprietary/lib/libmm-omxcore.so:system/lib/libmm-omxcore.so \
     vendor/vodafone/p839v55/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
-    vendor/vodafone/p839v55/proprietary/lib/libqcomfm_jni.so:system/lib/libqcomfm_jni.so \
+    vendor/vodafone/p839v55/proprietary/lib/libmorpho_groupshot.so:system/lib/libmorpho_groupshot.so \
+    vendor/vodafone/p839v55/proprietary/lib/libmorpho_jpeg_io.so:system/lib/libmorpho_jpeg_io.so \
+    vendor/vodafone/p839v55/proprietary/lib/libmorpho_memory_allocator.so:system/lib/libmorpho_memory_allocator.so \
+    vendor/vodafone/p839v55/proprietary/lib/libmorpho_object_remover_jni.so:system/lib/libmorpho_object_remover_jni.so \
+    vendor/vodafone/p839v55/proprietary/lib/libmorpho_whiteboard.so:system/lib/libmorpho_whiteboard.so \
     vendor/vodafone/p839v55/proprietary/lib/libOmxVdecHevc.so:system/lib/libOmxVdecHevc.so \
+    vendor/vodafone/p839v55/proprietary/lib/libpanorama.so:system/lib/libparomana.so \
+    vendor/vodafone/p839v55/proprietary/lib/libqcomfm_jni.so:system/lib/libqcomfm_jni.so \
     vendor/vodafone/p839v55/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/vodafone/p839v55/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
     vendor/vodafone/p839v55/proprietary/lib/libril.so:system/lib/libril.so \
