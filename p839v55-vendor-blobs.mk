@@ -28,7 +28,6 @@ vendor/vodafone/p839v55/proprietary/vendor/bin/sampleauthdaemon:system/vendor/bi
     vendor/vodafone/p839v55/proprietary/vendor/bin/thermal-engine:system/vendor/bin/thermal-engine \
     vendor/vodafone/p839v55/proprietary/vendor/etc/calib_t60.cfg:system/vendor/etc/calib_t60.cfg \
     vendor/vodafone/p839v55/proprietary/vendor/etc/calib_v55.cfg:system/vendor/etc/calib_v55.cfg \
-    vendor/vodafone/p839v55/proprietary/vendor/etc/calmodule.cfg:system/vendor/etc/calmodule.cfg \
     vendor/vodafone/p839v55/proprietary/vendor/etc/msm_irqbalance.conf:system/vendor/etc/msm_irqbalance.conf \
     vendor/vodafone/p839v55/proprietary/vendor/etc/pdc.txt:system/vendor/etc/pdc.txt \
     vendor/vodafone/p839v55/proprietary/vendor/firmware/libpn547_fw.so:system/vendor/firmware/libpn547_fw.so \
@@ -167,7 +166,6 @@ vendor/vodafone/p839v55/proprietary/vendor/bin/sampleauthdaemon:system/vendor/bi
     vendor/vodafone/p839v55/proprietary/vendor/lib/libc2d30-a4xx.so:system/vendor/lib/libc2d30-a4xx.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/libcalmodule_akm.so:system/vendor/lib/libcalmodule_akm.so \
-    vendor/vodafone/p839v55/proprietary/vendor/lib/libcalmodule_common.so:system/vendor/lib/libcalmodule_common.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/libcalmodule_gyroscope.so:/system/vendor/lib/libcalmodule_gyroscope.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/libCB.so:system/vendor/lib/libCB.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/libChamomilePA.so:system/vendor/lib/libChamomilePA.so \
@@ -788,7 +786,6 @@ vendor/vodafone/p839v55/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwv
     vendor/vodafone/p839v55/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/vodafone/p839v55/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
     vendor/vodafone/p839v55/proprietary/lib/hw/nfc_nci.pn54x.default.so:system/lib/hw/nfc_nci.pn54x.default.so \
-    vendor/vodafone/p839v55/proprietary/lib/hw/sensors.msm8916.so:system/lib/hw/sensors.msm8916.so \
     vendor/vodafone/p839v55/proprietary/lib/modules/radio-iris-transport.ko:system/lib/modules/radio-iris-transport.ko \
     vendor/vodafone/p839v55/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
     vendor/vodafone/p839v55/proprietary/lib/libalRnB.so:system/lib/libalRnB.so \
