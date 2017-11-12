@@ -782,7 +782,6 @@ vendor/vodafone/p839v55/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwv
     vendor/vodafone/p839v55/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
     vendor/vodafone/p839v55/proprietary/lib/hw/nfc_nci.pn54x.default.so:system/lib/hw/nfc_nci.pn54x.default.so \
     vendor/vodafone/p839v55/proprietary/lib/modules/radio-iris-transport.ko:system/lib/modules/radio-iris-transport.ko \
-    vendor/vodafone/p839v55/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
     vendor/vodafone/p839v55/proprietary/lib/libalRnB.so:system/lib/libalRnB.so \
     vendor/vodafone/p839v55/proprietary/lib/libalSDE2.so:system/lib/libalSDE2.so \
     vendor/vodafone/p839v55/proprietary/lib/libaltek_post_jni.so:system/lib/libaltek_post_jni.so \
@@ -815,6 +814,5 @@ vendor/vodafone/p839v55/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwv
     vendor/vodafone/p839v55/proprietary/lib/libwifi-hal-qcom.so:system/lib/libwifi-hal-qcom.so \
     vendor/vodafone/p839v55/proprietary/lib/libzte_zcoredevice.so:system/lib/libzte_zcoredevice.so \
     vendor/vodafone/p839v55/proprietary/lib/libzte_zcore.so:system/lib/libzte_zcore.so \
-    vendor/vodafone/p839v55/proprietary/lib/modules/pronto/pronto_wlan.ko:system/lib/modules/pronto/pronto_wlan.ko \
     vendor/vodafone/p839v55/proprietary/priv-app/com.qualcomm.location:system/priv-app/com.qualcomm.location \
     vendor/vodafone/p839v55/proprietary/priv-app/com.qualcomm.location/com.qualcomm.location.apk:system/priv-app/com.qualcomm.location/com.qualcomm.location.apk \
