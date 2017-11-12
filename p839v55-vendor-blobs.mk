@@ -767,10 +767,6 @@ vendor/vodafone/p839v55/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwv
     vendor/vodafone/p839v55/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/vodafone/p839v55/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/vodafone/p839v55/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
-    vendor/vodafone/p839v55/proprietary/etc/firmware/wlan:system/etc/firmware/wlan \
-    vendor/vodafone/p839v55/proprietary/etc/firmware/wlan/prima:system/etc/firmware/wlan/prima \
-    vendor/vodafone/p839v55/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
-    vendor/vodafone/p839v55/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
     vendor/vodafone/p839v55/proprietary/etc/firmware/wlan/prima/WCNSS_wlan_dictionary.dat:system/etc/firmware/wlan/prima/WCNSS_wlan_dictionary.dat \
     vendor/vodafone/p839v55/proprietary/etc/lowi.conf:system/etc/lowi.conf \
     vendor/vodafone/p839v55/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
