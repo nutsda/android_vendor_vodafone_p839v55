@@ -16,11 +16,17 @@
 
 # Prebuilt APK
 PRODUCT_PACKAGES += \
-    com.qualcomm.location\
     TimeService
+
+# Prebuilt Framework
+PRODUCT_PACKAGES += \
+    qncvitems \
+    qcrilhook
 
 # Prebuilt vendor/lib needed for compilation
 PRODUCT_PACKAGES += \
-    libtime_genoff
+    libtime_genoff \
+    libloc_ds_api \
+    libloc_api_v02
 
 $(call inherit-product, vendor/vodafone/p839v55/p839v55-vendor-blobs.mk)

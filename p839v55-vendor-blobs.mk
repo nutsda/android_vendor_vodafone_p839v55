@@ -16,7 +16,6 @@
 PRODUCT_COPY_FILES := vendor/vodafone/p839v55/proprietary/vendor/lib/libtime_genoff.so:obj/lib/libtime_genoff.so
 
 PRODUCT_COPY_FILES += \
-    vendor/vodafone/p839v55/proprietary/vendor/qcril.db:system/vendor/qcril.db \
     vendor/vodafone/p839v55/proprietary/vendor/app/ims/ims.apk:system/vendor/app/ims/ims.apk \
     vendor/vodafone/p839v55/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/vodafone/p839v55/proprietary/vendor/bin/chamomile_provision:system/vendor/bin/chamomile_provision \
@@ -620,7 +619,6 @@ vendor/vodafone/p839v55/proprietary/vendor/bin/sampleauthdaemon:system/vendor/bi
     vendor/vodafone/p839v55/proprietary/vendor/lib/libsystem_health_mon.so:system/vendor/lib/libsystem_health_mon.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/libthermalioctl.so:system/vendor/lib/libthermalioctl.so \
-    vendor/vodafone/p839v55/proprietary/vendor/lib/libtime_genoff.so:system/vendor/lib/libtime_genoff.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/libts_detected_face_hal.so:system/vendor/lib/libts_detected_face_hal.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/libts_face_beautify_hal.so:system/vendor/lib/libts_face_beautify_hal.so \
     vendor/vodafone/p839v55/proprietary/vendor/lib/libtzdrmgenprov.so:system/vendor/lib/libtzdrmgenprov.so \
@@ -773,9 +771,7 @@ vendor/vodafone/p839v55/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwv
     vendor/vodafone/p839v55/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/vodafone/p839v55/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
     vendor/vodafone/p839v55/proprietary/etc/xtwifi.conf:system/etc/xtwifi.conf \
-    vendor/vodafone/p839v55/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
     vendor/vodafone/p839v55/proprietary/framework/qcom.fmradio.jar:system/framework/qcom.fmradio.jar \
-    vendor/vodafone/p839v55/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/vodafone/p839v55/proprietary/lib/egl/egl.cfg:system/lib/egl/egl.cfg \
     vendor/vodafone/p839v55/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
     vendor/vodafone/p839v55/proprietary/lib/hw/lights.msm8916.so:system/lib/hw/lights.msm8916.so \
@@ -790,7 +786,6 @@ vendor/vodafone/p839v55/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwv
     vendor/vodafone/p839v55/proprietary/lib/libGPU_post_jni.so:system/lib/libGPU_post_jni.so \
     vendor/vodafone/p839v55/proprietary/lib/libImageProcess_jni.so:system/lib/libImageProcess_jni.so \
     vendor/vodafone/p839v55/proprietary/lib/libjpeg_encode_hw_jni.so:system/lib/libjpeg_encode_hw_jni.so \
-    vendor/vodafone/p839v55/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
     vendor/vodafone/p839v55/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/vodafone/p839v55/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/vodafone/p839v55/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
