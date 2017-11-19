@@ -769,7 +769,6 @@ vendor/vodafone/p839v55/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwv
     vendor/vodafone/p839v55/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
     vendor/vodafone/p839v55/proprietary/etc/firmware/wlan/prima/WCNSS_wlan_dictionary.dat:system/etc/firmware/wlan/prima/WCNSS_wlan_dictionary.dat \
     vendor/vodafone/p839v55/proprietary/etc/lowi.conf:system/etc/lowi.conf \
-    vendor/vodafone/p839v55/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/vodafone/p839v55/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/vodafone/p839v55/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
     vendor/vodafone/p839v55/proprietary/etc/xtra_root_cert.pem:system/etc/xtra_root_cert.pem \
@@ -814,5 +813,3 @@ vendor/vodafone/p839v55/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwv
     vendor/vodafone/p839v55/proprietary/lib/libwifi-hal-qcom.so:system/lib/libwifi-hal-qcom.so \
     vendor/vodafone/p839v55/proprietary/lib/libzte_zcoredevice.so:system/lib/libzte_zcoredevice.so \
     vendor/vodafone/p839v55/proprietary/lib/libzte_zcore.so:system/lib/libzte_zcore.so \
-    vendor/vodafone/p839v55/proprietary/priv-app/com.qualcomm.location:system/priv-app/com.qualcomm.location \
-    vendor/vodafone/p839v55/proprietary/priv-app/com.qualcomm.location/com.qualcomm.location.apk:system/priv-app/com.qualcomm.location/com.qualcomm.location.apk \
