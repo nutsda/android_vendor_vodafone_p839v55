@@ -13,10 +13,7 @@
 # limitations under the License.
 
 #Prebuilt libraries that are needed to build open-source libraries
-PRODUCT_COPY_FILES := vendor/vodafone/p839v55/proprietary/vendor/lib/libtime_genoff.so:obj/lib/libtime_genoff.so
-
 PRODUCT_COPY_FILES += \
-    vendor/vodafone/p839v55/proprietary/vendor/app/ims/ims.apk:system/vendor/app/ims/ims.apk \
     vendor/vodafone/p839v55/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/vodafone/p839v55/proprietary/vendor/bin/chamomile_provision:system/vendor/bin/chamomile_provision \
 vendor/vodafone/p839v55/proprietary/vendor/bin/fidodaemon:system/vendor/bin/fidodaemon \

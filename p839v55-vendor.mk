@@ -16,7 +16,9 @@
 
 # Prebuilt APK
 PRODUCT_PACKAGES += \
-    TimeService
+    TimeService \
+    ims \
+    imssettings
 
 # Prebuilt Framework
 PRODUCT_PACKAGES += \
