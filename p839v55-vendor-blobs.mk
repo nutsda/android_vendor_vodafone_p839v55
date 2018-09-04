@@ -712,13 +712,6 @@ vendor/vodafone/p839v55/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwv
     vendor/vodafone/p839v55/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/vodafone/p839v55/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/vodafone/p839v55/proprietary/bin/wcnss_service:system/bin/wcnss_service \
-    vendor/vodafone/p839v55/proprietary/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb:system/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb \
-    vendor/vodafone/p839v55/proprietary/etc/acdbdata/MTP/MTP_General_cal.acdb:system/etc/acdbdata/MTP/MTP_General_cal.acdb \
-    vendor/vodafone/p839v55/proprietary/etc/acdbdata/MTP/MTP_Global_cal.acdb:system/etc/acdbdata/MTP/MTP_Global_cal.acdb \
-    vendor/vodafone/p839v55/proprietary/etc/acdbdata/MTP/MTP_Handset_cal.acdb:system/etc/acdbdata/MTP/MTP_Handset_cal.acdb \
-    vendor/vodafone/p839v55/proprietary/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb:system/etc/acdbdata/MTP/MTP_Hdmi_cal.acdb \
-    vendor/vodafone/p839v55/proprietary/etc/acdbdata/MTP/MTP_Headset_cal.acdb:system/etc/acdbdata/MTP/MTP_Headset_cal.acdb \
-    vendor/vodafone/p839v55/proprietary/etc/acdbdata/MTP/MTP_Speaker_cal.acdb:system/etc/acdbdata/MTP/MTP_Speaker_cal.acdb \
     vendor/vodafone/p839v55/proprietary/etc/cne/andsfCne.xml:system/etc/cne/andsfCne.xml \
     vendor/vodafone/p839v55/proprietary/etc/cne/SwimConfig.xml:system/etc/cne/SwimConfig.xml \
     vendor/vodafone/p839v55/proprietary/etc/cacert_location.pem:system/etc/cacert_location.pem \
